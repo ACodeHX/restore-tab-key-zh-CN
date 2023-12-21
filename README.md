@@ -17,3 +17,5 @@
 总而言之，这个插件使 tab 键插入制表符，而不影响快速缩进行的能力，就像大多数 IDE 一样。此外，如果您想要文本内部的大空白，它允许您快速插入硬空格
 
 ### 展示
+
+![restore-tab-key](https://github.com/ACodeHX/restore-tab-key-zh-CN/assets/127362983/2b0696c9-2dd5-4c3b-a99a-be4d034b6fa5)
