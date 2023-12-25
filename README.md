@@ -8,7 +8,9 @@
 由于没有黑曜石笔记的网站所以插件不会上架社区商店
 
 #### 手动安装:
-下载`Releases`然后将其中文件(main.js, manifest.json) 解压到 **你的笔记目录/.obsidian/plugins/**
+下载`Releases`然后将其中文件`obsidian-full-calendar_zh_CN.zip` 解压到 **你的笔记目录/.obsidian/plugins/**
+
+或者下载`main.js,manifest.json`到/.obsidian/plugins/里的目录
 ### 黑曜石Tab键恢复
 恢复 Tab 键行为：Tab 键按照原有的方式插入制表符.
 
